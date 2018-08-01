@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="padding">10dp</dimen>
+    <dimen name="image_height">180dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="kwidth">46dp</dimen>
+    <dimen name="kheight">46dp</dimen>
+    <dimen name="margin_bottom_k1">8dp</dimen>
+    <dimen name="margin_toop_ad">100dp</dimen>
+    <dimen name="margin_k2">16dp</dimen>
+    <dimen name="margin_news">10dp</dimen>
+    <dimen name="height_spinner">28dp</dimen>
+    <dimen name="spinner_margin">2dp</dimen>
+    <dimen name="margin_top_button">100dp</dimen>
+    <dimen name="text_size_button">15sp</dimen>
+    <dimen name="margin_button">20dp</dimen>
+    <dimen name="card_height">0dp</dimen>
+    <dimen name="margin_layout">10dp</dimen>
+    <dimen name="corner_radius_elevation">20dp</dimen>
+    <dimen name="text_size_button_a2">15sp</dimen>
+    <dimen name="padding_frame_k1">4dp</dimen>
+    <dimen name="text_height_favorite">50dp</dimen>
+    <dimen name="margin_top_text_favorite">130dp</dimen>
+    <dimen name="text_size_widget">17sp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="elevation_a2">4dp</dimen>
+    <dimen name="height_image_frame">180dp</dimen>
+    <dimen name="text_height_frame_a1">50dp</dimen>
+    <dimen name="margin_top_news">130dp</dimen>
+    <dimen name="min_width">180dp</dimen>
+    <dimen name="min_height">180dp</dimen>
+
+    <dimen name="margin" type="dimen" format="float">4.5dp</dimen>
+    <dimen name="dimesio">20dp</dimen>
+    <dimen name="pad">16dp</dimen>
+    <dimen name="dimen">20sp</dimen>
+    <dimen name="text_email">18sp</dimen>
+    <dimen name="boarder">20dp</dimen>
+    <dimen name="button_boarder">10dp</dimen>
+</resources>

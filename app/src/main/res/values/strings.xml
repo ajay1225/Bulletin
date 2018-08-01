@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Bulletin</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Get App Details</string>
+    <string-array name="news_source">
+        <item>abc-news</item>
+        <item>abc-news-au</item>
+        <item>aftenposten</item>
+        <item>al-jazeera-english</item>
+        <item>ansa</item>
+        <item>argaam</item>
+        <item>ars-technica</item>
+        <item>ary-news</item>
+        <item>bbc-news</item>
+        <item>bild</item>
+        <item>bloombergcbc-news</item>
+        <item>cbs-news</item>
+        <item>cnbc</item>
+        <item>cnn</item>
+        <item>daily-mail</item>
+        <item>el-mundo</item>
+        <item>espn</item>
+        <item>espn-cric-info</item>
+        <item>focus</item>
+        <item>fox-news</item>
+        <item>football-italia</item>
+        <item>fortune</item>
+        <item>globo</item>
+        <item>google-news</item>
+        <item>msnbs</item>
+        <item>mtv-news</item>
+        <item>national-geographic</item>
+        <item>nbc-news</item>
+        <item>news24</item>
+        <item>newsweek</item>
+        <item>nfl-news</item>
+        <item>nrk</item>
+        <item>polygon</item>
+        <item>rbc</item>
+        <item>rt</item>
+        <item>sabq</item>
+        <item>t3n</item>
+        <item>talkspport</item>
+        <item>techcrunch</item>
+        <item>the-economist</item>
+        <item>the-hill</item>
+        <item>the-hindu</item>
+        <item>the-huffington-post</item>
+        <item>the-lab-bible</item>
+        <item>the-next-web</item>
+        <item>the-times-of-india</item>
+        <item>the-verge</item>
+        <item>the-wall-street-journal</item>
+        <item>time</item>
+        <item>usa-today</item>
+        <item>vice-news</item>
+        <item>wired</item>
+        <item>wired-de</item>
+        <item>xinhua-net</item>
+        <item>ynet</item>
+    </string-array>
+    <string-array name="country">
+        <item>ar(Argentina)</item>
+        <item>au(Australia</item>
+        <item>be(Belgium)</item>
+        <item>br(Brazil)</item>
+        <item>ca(Canada)</item>
+        <item>cn(China)</item>
+        <item>co(colombia)</item>
+        <item>cu(Cuba)</item>
+        <item>eg(Egypt)</item>
+        <item>fr(France)</item>
+        <item>de(Germany)</item>
+        <item>gr(Greece)</item>
+        <item>hk(Hong Kong)</item>
+        <item>hu(Hungary)</item>
+        <item>in(India)</item>
+        <item>id(Indonesia)</item>
+        <item>il(Israel)</item>
+        <item>it(Italy)</item>
+        <item>lt(Lithuania)</item>
+        <item>my(Malaysia)</item>
+        <item>mx(mexico)</item>
+        <item>nl(Netherlands)</item>
+        <item>nz(New Zealand)</item>
+        <item>no(Norway)</item>
+        <item>pl(Poland)</item>
+        <item>pt(Portugal)</item>
+        <item>ro(Romania)</item>
+        <item>ru(Russia)</item>
+        <item>sa(Saudi Arabia)</item>
+        <item>sg(Singapore)</item>
+        <item>za(South Africa)</item>
+        <item>kr(South Korea)</item>
+        <item>ch(Switzerland)</item>
+        <item>th(Thailand)</item>
+        <item>tr(Turkey)</item>
+        <item>ae(UAE)</item>
+        <item>gb(United Kingdom</item>
+        <item>us(United Sates)</item>
+    </string-array>
+    <string-array name="sub_cat">
+        <item>business</item>
+        <item>technology</item>
+        <item>sports</item>
+        <item>entertainment</item>
+        <item>health</item>
+        <item>science</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="description">description</string>
+    <string name="link_url">link url</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="get_country_news">Get Country News</string>
+    <string name="get_publisher_news">Get Publisher News</string>
+    <string name="news_poster">News Poster</string>
+    <string name="title">Title</string>
+    <string name="news_source">News Source</string>
+    <string name="favourites">Favourites</string>
+    <string name="publisher_choo">choose publisher</string>
+    <string name="neteork_error">Check the Mobile network connectivity</string>
+    <string name="info">Info</string>
+    <string name="retry">retry</string>
+    <string name="loading">Loading Please Wait....</string>
+    <string name="inserted">Inserted into bookmark</string>
+    <string name="remove">Removed from bookmark</string>
+    <string name="des">News Description</string>
+    <string name="ti">TITLE</string>
+    <string name="display_poste">Display Poste</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="added_widget">Addes to widget</string>
+    <string name="news_de">News Details</string>
+    <string name="no_news">no news as bookmark</string>
+    <string name="hint">Select country and category or Select publisher</string>
+    <string name="widger_message">Click on FAB to added into widget</string>
+    <string name="no_news_in">No news as Bookmark</string>
+    <string name="no_desc">No description</string>
+    <string name="no_image">No image for this Article</string>
+</resources>
